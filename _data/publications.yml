@@ -1,7 +1,7 @@
 main:
 
   - title: Neural Schrödinger Bridge with Sinkhorn Losses -- Application to Data-driven Minimum Effort Control of Colloidal Self-assembly
-    authors: Nodozi, Iman, Charlie Yan, <strong>Mira M. Khare</strong>     
+    authors: Nodozi, Iman, Charlie Yan, <strong>Mira M. Khare</strong>, et al.  
     #conference_short:
     conference: 2024 IEEE Transactions on Control Systems Technology
     pdf: https://arxiv.org/pdf/2307.14442 
@@ -10,7 +10,7 @@ main:
     image: ./assets/img/pub1.jpg
 
   - title: "Novelty Search for Neuroevolutionary Reinforcement Learning of Deceptive Systems: An Application to Control of Colloidal Self-assembly"
-    authors: O'Leary, Jared, <strong>Mira M. Khare</strong>, and Mesbah, Ali
+    authors: O'Leary, Jared, <strong>Mira M. Khare</strong>, and Ali Mesbah
     conference_short: ACC
     conference: 2023 American Control Conference
     pdf: https://ieeexplore.ieee.org/document/10155994/
